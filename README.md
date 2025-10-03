@@ -1,4 +1,4 @@
-# Phoenix-Chess
+# Phoenix Chess
 A chess engine for the TI 99/4A computer written in UCSD Pascal
 
 I have long been disappointed by the performance of Video Chess on the TI 99/4A which was the only professionally released chess program on the TI. There was a user port of the original Sargon program, but it was actually inferior to Video Chess overall. Initially, the idea to write my own engine was very daunting, but as my computing skills improved over the decades, it became more approachable.
